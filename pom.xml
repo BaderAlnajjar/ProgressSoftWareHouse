@@ -20,7 +20,7 @@
         <java.version>17</java.version>
         <junit.version>4.13.2</junit.version>
         <org.springdoc.version>2.1.0</org.springdoc.version>
-        <mysql-version>8.2.0</mysql-version>
+        <mysql-version>8.0.32</mysql-version>
     </properties>
 
     <dependencies>
